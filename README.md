@@ -1,6 +1,6 @@
 ## Hi, I' m IronW.
 
-+ 📖 A CS undergraduate student from China.
++ 📖 A Unity engineer from China.
 + 🔎 Focus on CG and Hardware.
 + An aviation fan✈ and railfan🚅.
 + 🕹 Play music game and simulation game.
